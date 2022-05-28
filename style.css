@@ -121,6 +121,7 @@
       width: 495px;
        height:560px;
        color:grey;
+       overflow: hidden;
   }
   /* Objective */
    p{line-height: 140%;
@@ -133,7 +134,7 @@
       margin-left: 40px;
   }
   /* showcase my services */
-  table{overflow :hidden;
+  table{
   width: 490px;
   height:220px;
       margin-top:30px;
